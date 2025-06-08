@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: aaronjensen
-      revision: main
+      revision: f3a6cd2a
       import: app/west.yml
   self:
     path: config
